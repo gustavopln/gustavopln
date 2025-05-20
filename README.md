@@ -155,6 +155,14 @@ Minha meta é continuar aprendendo, aprimorando e renovando conhecimentos, deixa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Postgres" 
+    title="Postgres"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgres/postgres-original.svg" 
+/>
 
 <br/>
 <br/>
