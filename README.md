@@ -163,6 +163,14 @@ Minha meta é continuar aprendendo, aprimorando e renovando conhecimentos, deixa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
+<img 
+    align="left" 
+    alt="SQL Server" 
+    title="SQL Server"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mssqlserver/mssqlserver-original.svg" 
+/>
 
 <br/>
 <br/>
