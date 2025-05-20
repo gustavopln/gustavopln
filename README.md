@@ -168,8 +168,8 @@ Minha meta é continuar aprendendo, aprimorando e renovando conhecimentos, deixa
     alt="SQL Server" 
     title="SQL Server"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mssql/mssql-original.svg" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
 />
 
 <br/>
