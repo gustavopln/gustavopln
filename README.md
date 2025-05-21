@@ -1,10 +1,10 @@
-# Gustavo Paulino
+# 🧑‍💻 Gustavo Paulino
 
 **`Desenvolvedor FullStack`**
 
-Comecei na TI na cara e na coragem, conhecia um dev que estava indo embora de onde trabalhavamos, na época no IBAMA, eu era do administrativo e tinha feito alguns cursos de programação e banco de dados, então resolvi falar com o gestor para poder assumir o lugar dele e continuar cuidando do sistema, só que eu não tinha experiência nenhuma, felizmente deu certo, eu consegui ir para o lugar dele, ralei muito no primeiro ano, apanhei demais, mas conseguia entregar o que era pedido, migrei o sistema de php puro para um framework, de dev júnior cheguei a ser lider de projeto nesse sistema, amo o que eu faço e isso acho que é a chave para as coisas fluirem bem nessa minha trajetória.
+Comecei na TI na cara e na coragem, conhecia um dev que estava indo embora de onde trabalhavamos, na época no IBAMA, eu era do administrativo e tinha feito alguns cursos de programação e banco de dados, então resolvi falar com o gestor para poder assumir o lugar dele e continuar cuidando do sistema, só que eu não tinha experiência nenhuma, felizmente deu certo, eu consegui ir para o lugar dele. Ralei muito no primeiro ano, apanhei demais, mas conseguia entregar o que era pedido, migrei o sistema de php puro para um framework, de dev júnior cheguei a ser lider de projeto nesse sistema. Amo o que eu faço e, para mim, isso é a chave para as coisas fluirem bem nessa minha trajetória.
 
-Fora o trabalho, adoro música, sou guitarrista, escrevo poemas e participo de um trabalho voluntário chamado Nossa Ação Diária, instagram.com/nossa.acao.diaria.
+Fora o trabalho, adoro música, sou guitarrista, escrevo poemas e participo de um trabalho voluntário chamado Nossa Ação Diária, instagram.com/nossa.acao.diaria e sou pai de uma linda menina!
 
 Minha meta é continuar aprendendo, aprimorando e renovando conhecimentos, deixando o melhor pelos projetos que trabalhar e ampliando as relações pessoais que venho construindo ao longo desses anos.
 
