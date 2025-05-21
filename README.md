@@ -33,15 +33,15 @@ Minha meta é continuar aprendendo, aprimorando e renovando conhecimentos, deixa
     <a href="https://www.instagram.com/gustavoplneto/" target="_blank">
         <img 
             alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"
+            title="Me siga no Instagram"             
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
         />
     </a>    
     <a href="https://www.linkedin.com/in/gustavopln/" target="_blank">
         <img 
             alt="LinkedIn" 
-            title="Me adicione no LinkedIn" 
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"
+            title="Me adicione no LinkedIn"             
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
         />
     </a>
 </p>
